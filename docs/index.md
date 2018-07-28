@@ -10,12 +10,6 @@ You'll need :
 ## Installation
 1. Get and install the homebrew starter kit available [here](http://smealum.github.io/3ds/).
 
-### Without a save editor
-2. Change your 3ds language to English (most of the uploaders speak english, and the game only shows projects with the same language as the one of your 3ds)
-3. Find a code for your region and console type (o3ds/n3ds). You might want to look at #RPwnGIsAlive on twitter or ask on the [Nintendo Homebrew Discord](https://discordapp.com/invite/C29hYvh)
-4. Download the project thank to the online sharing feature, once the download is finished try to run it.
-5. Enjoy!
-
 ### With a save editor
 2. Download the release archive - [check my twitter](https://twitter.com/MrNbaYoh)
 3. Inject the "game_00.dat" file in the extdata save folder of RPG Maker Player.
